@@ -1,0 +1,4 @@
+events-manager
+==============
+
+First project
